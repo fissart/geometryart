@@ -1,0 +1,142 @@
+#  Relaciones entre Formas
+  
+  
+  
+:::{.definition}
+La forma es uno de los principales elementos de creación plástica. Gracias a ellas podemos representar imágenes tanto figurativas como abstracta. Por este motivo es importante entender como podemos trabajar las formas y como pueden convivir en nuestras creaciones.
+:::
+  
+  
+Las formas, además, se pueden *interrelacionar* determinando **figuras compuestas**. Las relaciones entre figuras planas se pueden resumir en:
+  
+1. **Distanciamiento**: cuando las figuras guardan cierta separación entre ellas.
+2. **Toque**: cuando se rozan levemente (tangentes).
+3. **Unión**: cuando los contornos de las dos figuras se complementan.
+4. **Sustracción**: cuando un contorno superpuesto resta al otro contorno su espacio.
+5. **Penetración**: ambas figuras son transparentes, superponiéndose.
+6. **Superposición**: las figuras se colocan una sobre otra, dejándose entrever ambas.
+7. **Intersección**: zona común a las dos figuras.
+8. **Transparencia**: las dos figuras se superponen parcialmente pero, al ser translúcidas, se ven los contornos de ambas.
+  
+##  Relaciones entre formas planas.
+  
+Las relaciones entre formas pueden ser las siguientes:
+  
+  
+```{r
+if (knitr::is_html_output()) {
+knitr::include_url("https://www.geogebra.org/classic/wdkjjtjp", height="700")} else {
+knitr::include_graphics('elipse.svg')
+}
+```
+  
+###  Distanciamiento.
+  
+  
+Dos formas mantienen una relación de distanciamiento cuando existe una separación entre ellas.
+  
+###  Toque.
+  
+Existe relación de toque cuando las formas están en contacto.
+  
+Relación de formas por toque
+Jugando con la sensación de equilibrio, estas formas circulares y semicirculares se mantienen unidas por un ligero contacto.
+###  Superposición.
+  
+Existe superposición cuando una forma tapa a otra y de esta solo vemos la parte que no está tapada.
+  
+Iconos chat con relación de formas por superposición
+Icono de chat con dos bocadillos de diálogo que se superponen. Sin duda, esta es la relación más habitual entre formas.
+  
+###  Unión.
+  
+  
+Dos formas tienen una relación de unión cuando se funde y los contornos de las dos formas se complementan.
+  
+Icono de mostrador con relación de formas por unión
+En este icono las dos figuras que representan personas y el mostrador se funden en una única forma.
+Portada de The last of us
+En esta carátula del videojuego The last of us vemos que mediante la sombra ambos personajes funden sus formas y se aprecian como una única forma. Sin duda, demás de ser un recurso estético, sirve para remarcar la estrecha unión entre los dos personajes.
+  
+  
+###  Intersección.
+  
+  
+Existe relación de intersección entre dos formas cuando surge una nueva forma fruto de la zona común entre ellas. Es decir, ambas formas comparten una superficie del plano y esta genera una nueva forma.
+  
+Cartel de la película Her con relación de formas por intersección.
+En este cartel de la películar Her vemos solo una parte de la vista frontal del rostro tras la intersección y recorte con una vista de perfil de la que solo vemos algunos detalles mínimos.
+  
+  
+###  Sustracción.
+  
+  
+La relación de sustracción se produce cuando una forma no aparece representada, pero resta el espacio común a la otra creando un vacío.
+  
+Icono madre y bebe. Relación de formas por sustracción
+En este icono se ha representado una figura cuidando de un niño. La figura del niño se ha sustraído de la forma del adulto. Es un recurso útil para imágenes que pretenden ser formalmente simples.
+  
+###  Penetración.
+  
+  
+Existe relación de penetración entre formas cuando se crea un vacío en el espacio común entre ellas.
+  
+Relación de penetración entre formas
+En esta imagen vemos que de la penetración entre dos formas surge una nueva.
+  
+###  Transparencia.
+  
+  
+En una relación de transparencia entre formas, ambas formas comparten un espacio en común, pero se aprecia el contorno de ambas. Podemos entenderlo como una superposición de una forma translúcida sobre otra.
+  
+Relaciones entre formas por transparencia y superposición
+En esta obra de Petra Erikson el rostro que está de medio perfil tiene una relación de superposición sobre la otra figura que está de frente. En cambio, su pelo mantiene una relación de transparencia, dejando ver el rostro frontal con una suma aditiva de colores.
+  
+  
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?&#x5C;int_1^3&#x5C;epsilon_i"/></p>  
+  
+wwwwwwwwwwwwwwwwwwwwwwwwwwl plano Here is a review of existing methods.
+```{r
+knitr::include_graphics("dibujo.svg")
+```
+  
+  
+##  Superficies poliedricas
+  
+  
+www
+  
+###  Solidos platónicos
+  
+  
+###  Los prismas
+  
+  
+##  Superficies de revolucion y regladas
+  
+  
+##  Superficies curvas
+  
+  
+###  Cerradas
+  
+  
+Esfera Elipsoide
+  
+###  Abiertas
+  
+  
+###  Orientables
+  
+  
+###  No orientables
+  
+  
+##  Fractales 3D
+  
+  
+##  Desarrollo de forma tridimensionales
+  
+  
+  
+  

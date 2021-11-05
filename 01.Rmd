@@ -1,0 +1,148 @@
+\mainmatter
+
+# Elementos básicos del diseño
+
+Comencemos detallando los 6 elementos básicos con los que un diseñador puede crear sus composiciones. ¿Cuáles son los 6 elementos que puede contener un diseño? Todos, sin excepción, disponen de alguno de ellos:
+
+*   **Línea**. Quizás el más básico. Todo comienza con una línea. Una línea corta puede verse como un punto.
+
+*   **Dirección**. Todas las líneas tienen una dirección y según cual sea, puede provocar diferentes percepciones. Por ejemplo: una línea vertical da sensación de altura, una horizontal de estabilidad, una en diagonal, crecimiento (si va de menos a más, de izquierda a derecha) o descenso (si va de más a menos, de izquierda a derecha). ¿Te lo habías planteado?
+
+*   **Forma**. Línea + dirección = forma. Las formas están compuestas por líneas, bien cerradas o abiertas (y aquí es donde entra, por ejemplo la Ley de Cierre de Gestalt, donde el cerebro "cierra" o "une" esos espacios). Pueden ser líneas explícitas, o bien utilizando otros principios como el contraste, o elementos como el color, que también crean formas.
+
+*   **Tamaño**. El tamaño también es un elemento importante de todo diseño. Un mismo elemento repetido en dos tamaños diferentes pueden provocar sensaciones diferentes: tamaño (propiamente dicho), distancia o jerarquía.
+
+*   **Color**. Un elemento fundamental. Y por color, entendemos todos: blanco, negro, rojo, azul, etc. El color nos ayuda a contrastar elementos y no olvidemos su peso emocional, donde cada color tiene varios significados. Por ejemplo: el color blanco transmite pureza, paz, limpieza, perfección... El color se compone de 3 valores: color (verde), saturación (cantidad de verde puro, su ausencia es una escala de grises) y brillo (luminosidad del color, más próximo al blanco o al negro).
+
+*   **Textura**. Un derivado del color. La textura añade ese toque extra de realidad, ya que en la naturaleza no solemos encontrar objetos con colores planos 100%, y la textura nos aporta una información extra de la superficie del objeto. Principios de la composición
+
+# Principios de la composición o diseño
+
+Se consideran los siguientes principios:
+
+## Énfasis o punto focal
+
+:::{#wwwwwwwwwwwww .definition name="name"}
+Este otro principio de la composición se basa en un elemento que domina sobre el resto en condición de subordinación. Dentro de la jerarquía, encontramos 3 subtipos:
+
+*   Alineación
+*   Escala
+*   Color
+*   Forma
+:::
+
+<iframe title="Cthulhu (Animated)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="480" src="https://sketchfab.com/models/e4593e6681e84889a4d1df34ae30b5c6/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/cthulhu-animated-e4593e6681e84889a4d1df34ae30b5c6?utm_medium=embed&utm_campaign=share-popup&utm_content=e4593e6681e84889a4d1df34ae30b5c6" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Cthulhu (Animated) </a> by <a href="https://sketchfab.com/nathanwondrak?utm_medium=embed&utm_campaign=share-popup&utm_content=e4593e6681e84889a4d1df34ae30b5c6" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Nathan Wondrak </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=e4593e6681e84889a4d1df34ae30b5c6" target="_blank" style="font-weight: bold; color: #1CAAD9; ">Sketchfab</a>
+
+<iframe title="Fractal Pagoda • ©Ashim Shakya" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="480" src="https://sketchfab.com/models/a639a0cac8d44b9fb8a5ffbec7a4d0a0/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/fractal-pagoda-ashim-shakya-a639a0cac8d44b9fb8a5ffbec7a4d0a0?utm_medium=embed&utm_campaign=share-popup&utm_content=a639a0cac8d44b9fb8a5ffbec7a4d0a0" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Fractal Pagoda • ©Ashim Shakya </a> by <a href="https://sketchfab.com/ashimshakya?utm_medium=embed&utm_campaign=share-popup&utm_content=a639a0cac8d44b9fb8a5ffbec7a4d0a0" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Ashim Shakya </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a639a0cac8d44b9fb8a5ffbec7a4d0a0" target="_blank" style="font-weight: bold; color: #1CAAD9; ">Sketchfab</a>
+
+<iframe title="Dragon Curve 2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="480" src="https://sketchfab.com/models/e91edbc4046c4d28ba1976fe47ff9fde/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/dragon-curve-2-e91edbc4046c4d28ba1976fe47ff9fde?utm_medium=embed&utm_campaign=share-popup&utm_content=e91edbc4046c4d28ba1976fe47ff9fde" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Dragon Curve 2 </a> by <a href="https://sketchfab.com/tatasz?utm_medium=embed&utm_campaign=share-popup&utm_content=e91edbc4046c4d28ba1976fe47ff9fde" target="_blank" style="font-weight: bold; color: #1CAAD9; "> tatasz </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=e91edbc4046c4d28ba1976fe47ff9fde" target="_blank" style="font-weight: bold; color: #1CAAD9; ">Sketchfab</a>
+
+## Equilibrio o balance
+
+:::{#w .definition name="Equilibrio"}
+El equilibrio se basa en la organización de los elementos de modo que **nada domine en el plano o bien para que una parte pese más que la otra**.
+:::
+
+Existen dos tipos de equilibrio: la simetría y la asimetría.
+
+-   **Balance Simétrico**: se da cuando los elementos se disponen simétricamente a ambos lados de los ejes, horizontal o vertical.
+
+-   **Balance Asimétrico**: se da cuando los elementos no mantienen simetría por forma, pero sí por peso visual.
+
+<iframe title="The Tripled" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="480" src="https://sketchfab.com/models/38529b783aa54b58b09f911b02c98f77/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/the-tripled-38529b783aa54b58b09f911b02c98f77?utm_medium=embed&utm_campaign=share-popup&utm_content=38529b783aa54b58b09f911b02c98f77" target="_blank" style="font-weight: bold; color: #1CAAD9;"> The Tripled </a> by <a href="https://sketchfab.com/3dfractalart?utm_medium=embed&utm_campaign=share-popup&utm_content=38529b783aa54b58b09f911b02c98f77" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Peter Petrov </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=38529b783aa54b58b09f911b02c98f77" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+
+<iframe title="Fractal Tree3D Test" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="500" src="https://sketchfab.com/models/91fda5ff46054cb8af9449e92dc00f59/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/fractal-tree3d-test-91fda5ff46054cb8af9449e92dc00f59?utm_medium=embed&utm_campaign=share-popup&utm_content=91fda5ff46054cb8af9449e92dc00f59" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Fractal Tree3D Test </a> by <a href="https://sketchfab.com/fishbait?utm_medium=embed&utm_campaign=share-popup&utm_content=91fda5ff46054cb8af9449e92dc00f59" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Lars Magnus Nyland </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=91fda5ff46054cb8af9449e92dc00f59" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+
+
+## Ritmo o movimiento
+
+El principio del ritmo consiste en la **repetición de elementos** con el fin de conseguir una **composición harmoniosa**. Dicha repetición puede ser **constante o alterna**, afectadas por el color, la forma, etc.
+
+Este principio pretende expresar el movimiento en la composición y existen dos clases:
+
+-   **Regular**, cuando el movimiento es uniforme y constante
+-   **Progresivo**, cuando el movimiento es alterno y varía.
+
+El ritmo es la secuencia con que aparecen los elementos que componen el diseño: el orden, la repetición y la forma de organizarlos.
+
+Si se usa correctamente este principio puede ser realmente muy útil para asegurar una correcta lectura de nuestro diseño.
+
+El ritmo de una composición puede ser:
+
+Radial: Si los elementos se disponen de forma circular Lineal: Si la disposición de los elementos da una forma de continuidad.
+
+
+## Proporción o Escala
+
+El **principio de proporción** se basa en la relación del **tamaño** de los objetos con la composición final. La proporción nos ayuda a comunicar la **relación entre los diferentes elementos de diseño**. También puede ayudarnos a **marcar como más importante alguna parte en concreto**, ya que los elementos grandes captan más atención que los pequeños.
+
+La rporcion o escala es una de las trasformciones elementales (Traslación rotación, escala y reflexión)
+
+Dentro del principio de escala podemos tener en cuenta 3 subcategorías:
+
+*   **Tamaño**: cuando nos encontramos con elementos de diferentes tamaños relacionados entre sí.
+
+*   **Proporción**: elementos relacionados unos con otros, en una proporción visualmente armónica.
+
+*   **División**: elementos divididos en diferentes tamaños, creando todos ellos una unidad.
+
+<iframe title="Julia3D 5 Torus" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="500" src="https://sketchfab.com/models/75c8703899fd47ab93cc78571d4b5f41/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/julia3d-5-torus-75c8703899fd47ab93cc78571d4b5f41?utm_medium=embed&utm_campaign=share-popup&utm_content=75c8703899fd47ab93cc78571d4b5f41" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Julia3D 5 Torus </a> by <a href="https://sketchfab.com/Aiekick?utm_medium=embed&utm_campaign=share-popup&utm_content=75c8703899fd47ab93cc78571d4b5f41" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Aiekick </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=75c8703899fd47ab93cc78571d4b5f41" target="_blank" style="font-weight: bold; color: #1CAAD9; ">Sketchfab</a>
+
+## Unidad
+
+Este principio de la composición tiene lugar cuando un conjunto de **elementos** se **organizan y se relaciona entre sí**; de manera que acaban representando un **solo elemento**.
+
+Dentro del **principio de unidad**, encontramos 3 variantes (sub-principios):
+
+*   **Repetición**: cuando el uso de un mismo elemento se utiliza repetidamente para construir la composición.
+
+*   **Principio de Sucesión**: Se logra cuando se usa recurrentemente un color o un elemento donde uno de ellos mantiene el punto focal.
+
+*   **Continuidad**: cuando los elementos se articulan entorno a la construcción del mensaje.
+
+*   **Proximidad**: cuando se utiliza el mismo elemento para construir bloques en la composición.
+
+    -   **Crear conexiones**: La proximidad puede generar una relación entre dos objetos, generar relevancia, jerarquía, estructurar
+
+    -   **Disipar conexiones**: La proximidad también puede reflejar la carencia de relación entre elementos.
+
+<iframe title="Julia Revolute High Res" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="500" src="https://sketchfab.com/models/963527bd08f5427997809eec85e0cac2/embed">
+</iframe>
+
+<a href="https://sketchfab.com/3d-models/julia-revolute-high-res-963527bd08f5427997809eec85e0cac2?utm_medium=embed&utm_campaign=share-popup&utm_content=963527bd08f5427997809eec85e0cac2" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Julia Revolute High Res </a> by <a href="https://sketchfab.com/Aiekick?utm_medium=embed&utm_campaign=share-popup&utm_content=963527bd08f5427997809eec85e0cac2" target="_blank" style="font-weight: bold; color: #1CAAD9; "> Aiekick </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=963527bd08f5427997809eec85e0cac2" target="_blank" style="font-weight: bold; color: #1CAAD9; ">Sketchfab</a>
+
+Y no debemos olvidar que también podemos otorgar unidad mediante la armonía con el uso de colores análogos o mediante el contraste con el uso de colores complementarios, como puede verse aquí abajo.
+
+
+```{r w, echo=FALSE, out.width='100%', out.height='100%', fig.align="center", fig.cap="Proporción de un polígono"}
+if (knitr::is_html_output()) {
+knitr::include_url("https://www.geogebra.org/classic/dgs4uvkb", height="700")} else {
+knitr::include_graphics('proporcion.svg')
+}
+```
+
+
+```{r ww, echo=FALSE, out.width='100%', out.height='100%', fig.align="center", fig.cap="Proporción de un polígono"}
+if (knitr::is_html_output()) {
+knitr::include_url("https://www.geogebra.org/classic/nudpfupw", height="700")} else {
+knitr::include_graphics('proporcion.svg')
+}
+```

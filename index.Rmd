@@ -1,37 +1,52 @@
---- 
-title: "Geometría descriptiva"
-author: "RMB"
+---
+title: "Diseño artístico"
+author: "Ricardo Michel MALLQUI BAÑOS"
+institute: "Universidad Nacional San Cristóbal De Huamanga"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  www.
+documentclass: krantz
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+subparagraph: yes
+colorlinks: yes
+fontsize: 16pt
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+lot: yes
+lof: yes
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
+toc_appendix: yes
+description: ""
 ---
 
-# Acerca del libro
+```{=tex}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\CC}{\mathbb{C}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\f}{\mathbb{f}}
+\newcommand{\X}{\mathbb{X}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\norm}[1]{\left\Vert#1\right\Vert}
+\newcommand{\abs}[1]{\left\vert#1\right\vert}
+\newcommand{\set}[1]{\left\{#1\right\}}
+\newcommand{\seq}[1]{\left<#1\right>}
+\newcommand{\co}[1]{\left[#1\right]}
+\newcommand{\cc}[1]{\left(#1\right)}
+\newcommand{\J}{\mathcal{J}}
+\newcommand{\K}{\mathcal{K}}
+\newcommand{\M}{\mathcal{M}}
+\newcommand{\F}{\mathcal{F}}
+```
+# Resumen {.unnumbered}
 
-Este es un libro básico donde se recopila información sobre las principales construcciones goemetricas asociadas al arte, que pede ser visualizado en formatos pdf, html y epub.
-    
-## Uso 
+La importancia del estudio de la forma en el arte plástico se debe a la manipulación constante de estas en el espacio bidimensional y tridimensional. En el plano bidimensional se estudian aspectos geometricos partiendo desde la forma de un punto hasta formas orgánicas con comportamientos similares al de los conjuntos fractales de Mandelbrot y Julia y en el espacio tridimensional se realiza un estudio sobre formas que viven en este espacio es decir tanto las formas bidimensionales además de los sólidos geométricos y las formas orgánicas y los conjuntos fractales de Mandelbrots 3D y julia 3D. Finalmente se realiza composiciones con estas formas, utilizando principios de composicon plástica con el objetivo de reunir los conocimientos previos y reconocer la utilidad de su estudio previo. Luego se reconocerán estas formas como contenedores de formas existentes en la naturaleza tales como las formas estudiadas en la fitomorfología, la zoomorfología, la geomorfologia. En el Apendice se describen conceptos relacionados a transformaciones y centros de masa de formas 2d y 3d.
 
-Cada capitulo trata sobre temas específicos, comenzando con algunas definiciones y descripción de `procesos constructivos`
-
-Además las imágenes son interactivas para una mejor manipulación de los objetos estudiados, estos embebidos desde la plataforma de `Geogebra.org`
-
-## Renderinzado trabajos
-
-Los procesos constructivos en este libro son similares a los procesos realizados con regla y compás.
-
-1. Consiga regla triangulares de *45-45** y *30-60* y comas
-
-1. Encaso de construir lineas paralelas, sutilice las reglas conjuntamente mencionadas en ítem anterior.
+# Introducción {.unnumbered}
 
 
-## Visualizando el libro
+El **diseño gráfico** es un proceso creativo que consiste en **transmitir un mensaje** a través de una *comunicación visual*. Dentro de este proceso, existe lo que se conoce como *principios de la composición* en diseño gráfico.
 
-Las posibles visualizaciones son en geogebra, pdf, html (pagina web) y epub.
+Entendemos por **composición** como la **disposición** de los elementos sobre un plano o el espacio. Dichos *elementos* pueden ser de distintos tipos. Se trata de una clase de **reglas** que sirven como **guía**, no como leyes, y permiten **construir y comunicar** el mensaje, para que éste se transmita de la forma más exitosa posible.
