@@ -1,0 +1,11 @@
+# Perspectiva cónica 
+
+## Elementos
+
+
+```{r ww, echo=FALSE, out.width='100%', out.height='100%', fig.align="center", fig.cap="Proporción de un polígono"}
+if (knitr::is_html_output()) {
+knitr::include_url("https://www.geogebra.org/classic/wdkjjtjp", height="700")} else {
+#knitr::include_graphics('proporcion.svg')
+}
+```
