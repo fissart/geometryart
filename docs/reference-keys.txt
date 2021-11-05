@@ -1,4 +1,6 @@
 fig:ww
+fig:www
+fig:w
 fig:nice-fig
 tab:nice-tab
 eq:binom
@@ -23,6 +25,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
-fig:www
-fig:w
